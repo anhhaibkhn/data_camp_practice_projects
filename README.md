@@ -1,2 +1,5 @@
 # data_camp_practice_projects
-A DataCamp project that construct a CNN model to classify ASL (American Sign Language) images of letters 
+This repository includes some of the DataCamp projects that I had completed. 
+- The Android App Market on Google Play
+- ASL-Recognition-with-Deep-Learning
+- Book Recommendations from Charles Darwin
