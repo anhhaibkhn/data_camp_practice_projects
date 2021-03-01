@@ -4,6 +4,7 @@
 プロジェクト概要：Build a convolutional neural network to classify images of letters from American Sign Language.
 -	チーム数：1名
 -	手順：(Project tasks order)
+
         1.	Visualize the training American Sign Language (ASL) data.
         2.	Examine the dataset.
         3.	One-hot encode the data.
