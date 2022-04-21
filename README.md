@@ -10,6 +10,7 @@ This repository includes some of the DataCamp projects that I had completed.
 - Investigating Netflix Movies and Guest Stars in The Office
 - Marketing Analytics Predicting Customer Churn in Python
 - Predicting Credit Card Approvals
+- Risk and Returns - the Sharpe Ratio
 - The Android App Market on Google Play
 - The GitHub History of the Scala Language
 
