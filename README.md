@@ -14,4 +14,4 @@ This repository includes some of the DataCamp projects that I had completed.
 - The Android App Market on Google Play
 - The GitHub History of the Scala Language
 
-Updating ...
+From 2022-08-10, new course contents will be update in [this blog](https://anhhaibkhn.github.io/Data-Science-selfstudy-notes-Blog/)
